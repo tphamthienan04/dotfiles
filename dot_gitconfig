@@ -4,3 +4,11 @@
 [credential "https://gist.github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
+[user]
+	name = Ashley Tran
+	email = ashleytran868@gmail.com
+[core]
+	editor = nano
+	autocrlf = input
+[init]
+	defaultBranch = main
